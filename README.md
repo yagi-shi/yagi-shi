@@ -13,7 +13,6 @@
 #### Tools & Environment
 - **Xcode** / **Git** / **GitHub** / **Docker**
 - 依存管理: **SPM**, **CocoaPods**
-- Xcode の Coding Intelligence で Claude を活用（チャット／エージェントの2モード）
 
 ---
 
