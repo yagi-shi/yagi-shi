@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm yagi-shi
 
-<!--
-**yagi-shi/yagi-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+#### Primary
+- **Swift** — iOS開発の主言語
+- **UIKit / MVC** — 実務で使用している基盤技術
+- **SwiftUI / MVVM** — 移行中・学習中の新しいスタック
+- **RxSwift** — リアクティブプログラミング
+- **SnapKit** — レイアウト構築
+- **XCTest** — テスト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools & Environment
+- **Xcode** / **Git** / **GitHub** / **Docker**
+- 依存管理: **SPM**, **CocoaPods**
+- Xcode の Coding Intelligence で Claude を活用（チャット／エージェントの2モード）
+
+---
+
+## 📱 Apps
+
+| App | Description | Platform |
+|:--:|:--|:--|
+| <a href="https://apps.apple.com/jp/app/id6759548244"><img src="assets/appstore.png" width="100" alt="mennikki"></a><br>**mennikki** | 「あの店、なんて名前だっけ？」をなくすラーメン記録日記 <br> [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/jp/app/id6759548244) | iOS |
