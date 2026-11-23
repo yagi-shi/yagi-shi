@@ -6,8 +6,6 @@
 - **Swift** — iOS開発の主言語
 - **UIKit / MVC** — 実務で使用している基盤技術
 - **SwiftUI / MVVM** — 移行中・学習中の新しいスタック
-- **RxSwift** — リアクティブプログラミング
-- **SnapKit** — レイアウト構築
 - **XCTest** — テスト
 
 #### Tools & Environment
