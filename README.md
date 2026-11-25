@@ -5,8 +5,8 @@
 #### Primary
 - **Swift** — iOS開発の主言語
 - **UIKit / MVC** — 実務で使用している基盤技術
-- **SwiftUI / MVVM** — 移行中・学習中の新しいスタック
-- **XCTest** — テスト
+- **SwiftUI / MVVM** — 移行中・学習中
+- **Swift Testing / XCTest / XCUITest** — テスト
 
 #### Tools & Environment
 - **Xcode** / **Git** / **GitHub** / **Docker**
